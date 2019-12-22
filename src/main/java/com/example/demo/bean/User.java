@@ -28,4 +28,6 @@ public class User {
 
     @Column
     private String Address;
+
+    private String parentId;
 }
